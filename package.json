@@ -1,0 +1,23 @@
+{
+  "name": "CAT",
+  "version": "0.0.1",
+  "description": "cryptocurrency",
+  "main": "index.mjs",
+  "author": "siru dduck",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mocha": "^9.2.0",
+    "stopwatch-node": "^1.1.0",
+    "technicalindicators": "^3.1.0",
+    "uuid": "^8.3.2"
+  }
+}
